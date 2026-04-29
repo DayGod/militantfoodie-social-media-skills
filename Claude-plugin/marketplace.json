@@ -1,1 +1,43 @@
-
+{
+  "name": "militantfoodie-social-media-skills",
+  "owner": {
+    "name": "Mike",
+    "url": "https://militantfoodie.substack.com"
+  },
+  "plugins": [
+    {
+      "name": "militantfoodie-social-media-skills",
+      "source": ".",
+      "description": "The complete set of Claude skills behind Militant Foodie's content system. Food content creator on Instagram and Substack. 14 skills covering voice, post writing, hook generation, newsletter, reels, carousels, infographics, niche research, analytics, and community.",
+      "version": "1.0.0",
+      "metadata": {
+        "categories": [
+          "voice",
+          "instagram",
+          "substack",
+          "reels",
+          "visuals",
+          "planning",
+          "analytics",
+          "community"
+        ],
+        "tags": [
+          "content creation",
+          "food photography",
+          "instagram captions",
+          "substack newsletter",
+          "recipe content",
+          "hook writing",
+          "carousel builder",
+          "infographics",
+          "gemini",
+          "reel scripting",
+          "niche research",
+          "post scoring",
+          "seasonal cooking",
+          "elevated home cooking"
+        ]
+      }
+    }
+  ]
+}
